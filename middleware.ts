@@ -1,0 +1,1 @@
+// NextAuth middleware setup
